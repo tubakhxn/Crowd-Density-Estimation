@@ -2,6 +2,8 @@
 
 ## Creator/Dev: tubakhxn
 https://github.com/tubakhxn/Crowd-Density-Estimation/blob/main/demo.gif
+<img width="1128" height="677" alt="image" src="https://github.com/user-attachments/assets/b1ad8e0c-0e17-479c-bc14-a766b170a4f7" />
+
 ## What is this project?
 
 This project is a real-time crowd density estimation system using YOLOv8n for person detection and ByteTrack for tracking. It processes video files, detects and tracks people, overlays bounding boxes, IDs, density levels, and performance metrics, and classifies crowd density as LOW, MODERATE, HIGH, or CRITICAL.
@@ -23,4 +25,5 @@ This project is a real-time crowd density estimation system using YOLOv8n for pe
 ---
 
 **Made with ❤️ by tubakhxn**
+
 
